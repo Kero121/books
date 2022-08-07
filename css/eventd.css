@@ -1,0 +1,249 @@
+*{
+    box-sizing: border-box;
+    direction: rtl;
+}
+
+
+header {
+    background-image: url(../images/section-2.webp);
+    background-position: center center;
+    background-size: cover;
+    padding: 70px 10px;
+    width: 100%;
+    color: white;
+}
+
+.event {
+    padding: 50px 5px;
+ 
+}
+.count-down h1{
+    color: #DFB163;
+}
+
+
+.count-down{
+    align-items: center;
+        justify-content: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    font-family: -apple-system, 
+      BlinkMacSystemFont, 
+      "Segoe UI", 
+      Roboto, 
+      Oxygen-Sans, 
+      Ubuntu, 
+      Cantarell, 
+      "Helvetica Neue", 
+      sans-serif;
+}
+.count-down li {
+    display: inline-block;
+    font-size: 1.5em;
+    list-style-type: none;
+    padding: 1em;
+    text-transform: uppercase;
+  }
+  
+.count-down li span {
+    display: block;
+    font-size: 4.5rem;
+  }
+  
+  .emoji {
+    display: none;
+    padding: 1rem;
+  }
+  
+  .emoji span {
+    font-size: 4rem;
+    padding: 0 .5rem;
+  }
+  
+  @media all and (max-width: 768px) {
+    h1 {
+      font-size: calc(1.5rem * var(--smaller));
+    }
+    
+    li {
+      font-size: calc(1.125rem * var(--smaller));
+    }
+    
+    li span {
+      font-size: calc(3.375rem * var(--smaller));
+    }
+  }
+
+.list {
+    list-style: none;
+    padding: 10px 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.3);
+   
+    
+    font-size: 16px;
+}
+
+.list i {
+    color: #fb0;
+    font-size: 30px;
+    padding: 10px 12px;
+}
+.features{
+    padding: 20px 10px;
+   
+}
+.features a{
+    text-decoration: none;
+    width: 100%;
+    border-right: 1px solid rgba(0, 0, 0, 0.123);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.123);
+    padding:10px 20px;
+    color:black
+   
+}
+.speakers{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.images{
+    width: 45%;
+   margin: 5px;
+    
+    position: relative;
+}
+.features .nav-item .nav-link{
+    
+   border-right: 2px solid rgba(128, 128, 128, 0.336);
+   border-bottom: 2px solid rgba(128, 128, 128, 0.336);
+    font-size: 20px;
+    font-weight: 400;
+}
+.inputs input{
+    border: 2px solid #eee;
+    height: 50px;
+}
+.title h2 {
+    font-size: 6rem;
+    color: #f4f4f4;
+}
+
+
+
+.title h3 {
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+
+
+.images img{
+    width: 100%;
+    border-radius: 20px;
+
+}
+.layer{
+    display: none;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    color: white;
+    border-radius: 20px;
+    padding: 10px 10px;
+}
+.images:hover .layer{
+    display: block;
+    background-color: rgba(0, 0, 0, 0.6);
+    cursor: pointer;
+    
+}
+.spon-cont{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.sponser{
+    width: 50%;
+    flex-wrap: wrap;
+    
+    padding: 10px 5px;
+    
+    
+}
+.sponser img{
+    width: 100%;
+}
+.book{
+    margin-top: 10%;
+    width: 100%;
+    
+   display: flex;
+    text-align: center;
+}
+.btn-book{
+    border: 1px solid rgba(255, 255, 255, 0.24);
+    padding: 5px 20px;
+    border-radius: 25px;
+    background-color: #DFB163;
+    color: white;
+    font-size: 22px;
+    width: 100%;
+    box-shadow: 5px 5px 1px;
+}
+.btn-book:hover{
+    background-color: transparent;
+}
+.photos{
+    padding: 50px 0;
+}
+.photos h2{
+    color: #fb0;
+    text-align: center;
+}
+.related{
+    padding: 70px 0;
+}
+.related h2{
+    text-align: center;
+    color: #fb0;
+}
+.rel-event{
+padding: 25px 8px;
+border-radius: 25px;
+}
+.rel-event a{
+  
+    border: 1px solid white;
+    padding: 3px 20px;
+    border-radius: 25px;
+    background-color: #fb0;
+    color: white;
+    text-decoration: none;
+}
+.footer{
+    background-image: url(../images/section-2.webp);
+    background-size: 100% 100%;
+    background-position: center center;
+
+    position: relative;
+}
+.layer2{
+    background: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    content: '';
+    height: 100%;
+    width: 100%; 
+    top:0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+ }
+ .bright{
+     z-index: 211111;
+     position: relative;
+     color: white;
+     padding-bottom: 0;
+ }
