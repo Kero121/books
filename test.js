@@ -46,7 +46,7 @@ export let booksList =
 
 
     هذه النسخة من الكتاب صادرة ومتاحة مجانًا من مؤسسة هنداوي بشكل قانوني؛ حيث إن نص الكتاب يقع في
-    نطاق الملكية العامة تبعًا لقوانين الملكية الفكرية.</p>
+    نطاق الملكية العامة تبعًا لقوانين الملكية الفكرية.
 ` ,
         type: "تعليمي",
         bigDesc1: `الكتاب يحكى قصة سلطان هندى غليظ القلب ظالما لا يحكم بالعدل بين شعبه إلا أنه كان لديه وزير عادل طيب و رحيم يثق به يدعى سيلا . فى يوم من الايام طلب السلطان من الوزير سيلا أن ينفذ قوانين جديده ظالمه على الشعب وعندما رفض الوزير عاقبه السلطان بأن حبسه فى برج كبير بدون طعام ولا ماء إلى أن يموت . إلا أنه بحكمه وبركاته استطاع أن يهرب من سجنه .`,
@@ -61,9 +61,7 @@ export let booksList =
     },
     {
         bookname: "عجائب الدنيا السبع",
-        bookdesc: `تناول هذه القصة أحداثا تدور بين سلطان هندي جائر (ظالم) عاش في قديم الزمان وبين وزيره العادالكتاب يعدد العجائب من الابداع الذي صنعه الانسان وايضا يتناول ما في القارات من عجائب حيرة الكثير
-    عجائب الدنيا السبع (أو عجائب الدنيا السبع في العالم والقارات) تشير إلى منشآت رائعة من العصور
-    الكلاسيكية القديمة
+        bookdesc: `الكتاب يعدد العجائب من الابداع الذي صنعه الانسان وايضا يتناول ما في القارات من عجائب حيرة الكثير عجائب الدنيا السبع (أو عجائب الدنيا السبع في العالم والقارات) تشير إلى منشآت رائعة من العصور الكلاسيكية القديمة,
 ` ,
         type: "تعليمي",
         bigDesc1: `يتحدث الكتاب عن عجائب الدنيا السبع القديمه والاماكن التي وجدت فيها والاعجوبه الوحيده التي مازالت باقيه حتى يومنا هذا ثم يتناول بعض من ابرز وادهش العجائب الموجوده في دنيانا حاليا مثل سور الصين العظيم وبرج بيزا المائل وبرج ايفل ومنها ايضا ما صنعته الطبيعه مثل شلالات فيكتوريا وشلالات انجل وحاجز الشعاب المرجانيه باستراليا وجبل افرست`,
@@ -83,31 +81,42 @@ export let booksList =
 
 
     هذه النسخة من الكتاب صادرة ومتاحة مجانًا من مؤسسة هنداوي بشكل قانوني؛ حيث إن نص الكتاب يقع في
-    نطاق الملكية العامة تبعًا لقوانين الملكية الفكرية.</p>
+    نطاق الملكية العامة تبعًا لقوانين الملكية الفكرية.
 ` ,
         type: "تعليمي",
-        bigDesc1: `fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff`,
-        bigDesc2: `fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff`,
+        bigDesc1: `يحكي الكتاب عن حياه مجموعه من النمل الابيض كانت تعيش بجوار مجموعه من النمل الاسود الذي استولى على ارضهم وكان يفصل بينهم جبال كبيره تضمنه ظن النمل الابيض في البدايه انها صعبه الاختراق الى ان اكتشفت احدى النملات منهم انها جبال من القش فدعت كل شعبها من النمل الابيض لاختراق هذه الجبال لاستعاده ارضهم`,
+        bigDesc2: ``,
         image: "IMG-20220711-WA0006.jpg",
-        record: 'كل شيء عن اسماك القرش.aac',
+        record: 'جبال القش.aac',
         publishDate: 2022,
-        author: "Person",
-        publisher: "Any One",
-        bookCat: "ay 7aga",
+        author: "احمد فاروق الهجين",
+        publisher: "دار المعارف",
+        bookCat: "كتب اطفال علمية",
         pagesNo: 25
     },
     {
         bookname: "اللة يراني في كل وقت",
-        bookdesc: `تناول هذه القصة أحداثا تدور بين سلطان هندي جائر (ظالم) عاش في قديم الزمان وبين وزيره العادل.
-
-
-    هذه النسخة من الكتاب صادرة ومتاحة مجانًا من مؤسسة هنداوي بشكل قانوني؛ حيث إن نص الكتاب يقع في
-    نطاق الملكية العامة تبعًا لقوانين الملكية الفكرية.</p>
+        bookdesc: `ماذا يشبة اللة انا لا اراة  ,هل يستطيع اللة ان يراني, هل يستجيب لصلاتي , سيتعرف طفلك في هذا الكتاب ان اللة موجود و انة يساعدة في كل الاوقات
 ` ,
         type: "تعليمي",
         bigDesc1: `fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff`,
         bigDesc2: `fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff`,
-        image: "IMG-20220710-WA0007.jpg",
+        image: "IMG-20220711-WA0007.jpg",
+        record: 'الله يراني في كل وقت.aac',
+        publishDate: 2022,
+        author: "دينيس فيزي",
+        publisher: "دار الثقافة",
+        bookCat: "كتب اطفال علمية",
+        pagesNo: 34
+    },
+    {
+        bookname: "انا متفوق ",
+        bookdesc: `حسب إحصاءات نيويورك تايمز
+        أنا متفوق عشر طرق لتسمو في الحياة من تأليف مؤلفي أكثر الكتب مبيع` ,
+        type: "تعليمي",
+        bigDesc1: `fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff`,
+        bigDesc2: `fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff`,
+        image: "IMG-20220709-WA0009.jpg",
         record: 'كل شيء عن اسماك القرش.aac',
         publishDate: 2022,
         author: "Person",
@@ -116,17 +125,13 @@ export let booksList =
         pagesNo: 25
     },
     {
-        bookname: "الوزير السجين ",
-        bookdesc: `تناول هذه القصة أحداثا تدور بين سلطان هندي جائر (ظالم) عاش في قديم الزمان وبين وزيره العادل.
-
-
-    هذه النسخة من الكتاب صادرة ومتاحة مجانًا من مؤسسة هنداوي بشكل قانوني؛ حيث إن نص الكتاب يقع في
-    نطاق الملكية العامة تبعًا لقوانين الملكية الفكرية.</p>
+        bookname: "الماء سائل العجائب ",
+        bookdesc: `يستعرض الكتاب خواص الماء ومصادرة الطبيعية المختلفة مثل مياة الأنهار ومياة البحار والمياة الجوفية ومياة الامطار،وخواص كل منها، وطرق تنقيتها للحصول على مياة الشرب،وكذلك الطرق المستخدمة لتنقية مياة الصرف الصحى لاستخدمها فى مختلف الاغراض
 ` ,
         type: "تعليمي",
         bigDesc1: `fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff`,
         bigDesc2: `fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff`,
-        image: "IMG-20220710-WA0007.jpg",
+        image: "IMG-20220711-WA0015.jpg",
         record: 'كل شيء عن اسماك القرش.aac',
         publishDate: 2022,
         author: "Person",
@@ -135,17 +140,13 @@ export let booksList =
         pagesNo: 25
     },
     {
-        bookname: "الوزير السجين ",
-        bookdesc: `تناول هذه القصة أحداثا تدور بين سلطان هندي جائر (ظالم) عاش في قديم الزمان وبين وزيره العادل.
-
-
-    هذه النسخة من الكتاب صادرة ومتاحة مجانًا من مؤسسة هنداوي بشكل قانوني؛ حيث إن نص الكتاب يقع في
-    نطاق الملكية العامة تبعًا لقوانين الملكية الفكرية.</p>
+        bookname: "فرحانة و سر جمالها",
+        bookdesc: `فرحانة طفلة سعيدة صغيرة فى الخامسة من عمرها، فتاة منطلقة لا تحب القيود وتستمتع باكتشاف كل شىء بنفسها، وتمنعها طبيعتها المحبة للآخرين من حرجهم أو عدم طاعة من هم أكبر سنا، ولذلك فكل يوم تواجه مشاكل صغيرة تعمل على حلها بطريقتها الخاصة.
 ` ,
         type: "تعليمي",
         bigDesc1: `fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff`,
         bigDesc2: `fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff`,
-        image: "IMG-20220710-WA0007.jpg",
+        image: "IMG-20220711-WA0018.jpg",
         record: 'كل شيء عن اسماك القرش.aac',
         publishDate: 2022,
         author: "Person",
@@ -154,17 +155,14 @@ export let booksList =
         pagesNo: 25
     },
     {
-        bookname: "الوزير السجين ",
-        bookdesc: `تناول هذه القصة أحداثا تدور بين سلطان هندي جائر (ظالم) عاش في قديم الزمان وبين وزيره العادل.
-
-
-    هذه النسخة من الكتاب صادرة ومتاحة مجانًا من مؤسسة هنداوي بشكل قانوني؛ حيث إن نص الكتاب يقع في
-    نطاق الملكية العامة تبعًا لقوانين الملكية الفكرية.</p>
+        bookname: "الارنب المضئ",
+        bookdesc: `
+        حيث جمع الكاتب في هذه السلسلة روائع القصص العالمي والغربي والإسلامي يسكبها بأسلوبٍ أدبي مشوق وهادف أشبع فيه حاجات الناشئة في مختلف الميادين العلمية والمعرفية والتاريخية في أدب الرحلات
 ` ,
         type: "تعليمي",
         bigDesc1: `fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff`,
         bigDesc2: `fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff`,
-        image: "IMG-20220710-WA0007.jpg",
+        image: "IMG-20220711-WA0025.jpg",
         record: 'كل شيء عن اسماك القرش.aac',
         publishDate: 2022,
         author: "Person",
@@ -173,7 +171,7 @@ export let booksList =
         pagesNo: 25
     },
     {
-        bookname: "الوزير السجين ",
+        bookname: "جسم الانسان",
         bookdesc: `تناول هذه القصة أحداثا تدور بين سلطان هندي جائر (ظالم) عاش في قديم الزمان وبين وزيره العادل.
 
 
@@ -183,7 +181,7 @@ export let booksList =
         type: "تعليمي",
         bigDesc1: `fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff`,
         bigDesc2: `fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff`,
-        image: "IMG-20220710-WA0007.jpg",
+        image: "IMG-20220711-WA0027.jpg",
         record: 'كل شيء عن اسماك القرش.aac',
         publishDate: 2022,
         author: "Person",
@@ -192,17 +190,13 @@ export let booksList =
         pagesNo: 25
     },
     {
-        bookname: "الوزير السجين ",
-        bookdesc: `تناول هذه القصة أحداثا تدور بين سلطان هندي جائر (ظالم) عاش في قديم الزمان وبين وزيره العادل.
-
-
-    هذه النسخة من الكتاب صادرة ومتاحة مجانًا من مؤسسة هنداوي بشكل قانوني؛ حيث إن نص الكتاب يقع في
-    نطاق الملكية العامة تبعًا لقوانين الملكية الفكرية.</p>
+        bookname: "في اعماق البحار",
+        bookdesc: `قصة مزجت بين الواقع والخيال، فاستخدم فيها الخيال لتحقيق الأحداث الواقعية التي تفتح أمام التلميذ في هذه المرحلة نافذة يطل منها على عالم البحار وأسراره، وما يحويه من مخلوقات وعجانب وغرانب، وتشحذ فكره بمعلومات جديدة مفيدة تساهم فى توسيع مداركه في هذا المجال
 ` ,
         type: "تعليمي",
         bigDesc1: `fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff`,
         bigDesc2: `fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff`,
-        image: "IMG-20220710-WA0007.jpg",
+        image: "IMG-20220711-WA0028.jpg",
         record: 'كل شيء عن اسماك القرش.aac',
         publishDate: 2022,
         author: "Person",
@@ -211,7 +205,7 @@ export let booksList =
         pagesNo: 25
     },
     {
-        bookname: "الوزير السجين ",
+        bookname: "اصحاب بجد",
         bookdesc: `تناول هذه القصة أحداثا تدور بين سلطان هندي جائر (ظالم) عاش في قديم الزمان وبين وزيره العادل.
 
 
@@ -221,7 +215,7 @@ export let booksList =
         type: "تعليمي",
         bigDesc1: `fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff`,
         bigDesc2: `fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff`,
-        image: "IMG-20220710-WA0007.jpg",
+        image: "IMG-20220711-WA0024.jpg",
         record: 'كل شيء عن اسماك القرش.aac',
         publishDate: 2022,
         author: "Person",
@@ -229,63 +223,8 @@ export let booksList =
         bookCat: "ay 7aga",
         pagesNo: 25
     },
-    {
-        bookname: "الوزير السجين ",
-        bookdesc: `تناول هذه القصة أحداثا تدور بين سلطان هندي جائر (ظالم) عاش في قديم الزمان وبين وزيره العادل.
-
-
-    هذه النسخة من الكتاب صادرة ومتاحة مجانًا من مؤسسة هنداوي بشكل قانوني؛ حيث إن نص الكتاب يقع في
-    نطاق الملكية العامة تبعًا لقوانين الملكية الفكرية.</p>
-` ,
-        type: "تعليمي",
-        bigDesc1: `fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff`,
-        bigDesc2: `fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff`,
-        image: "IMG-20220710-WA0007.jpg",
-        record: 'كل شيء عن اسماك القرش.aac',
-        publishDate: 2022,
-        author: "Person",
-        publisher: "Any One",
-        bookCat: "ay 7aga",
-        pagesNo: 25
-    },
-    {
-        bookname: "الوزير السجين ",
-        bookdesc: `تناول هذه القصة أحداثا تدور بين سلطان هندي جائر (ظالم) عاش في قديم الزمان وبين وزيره العادل.
-
-
-    هذه النسخة من الكتاب صادرة ومتاحة مجانًا من مؤسسة هنداوي بشكل قانوني؛ حيث إن نص الكتاب يقع في
-    نطاق الملكية العامة تبعًا لقوانين الملكية الفكرية.</p>
-` ,
-        type: "تعليمي",
-        bigDesc1: `fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff`,
-        bigDesc2: `fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff`,
-        image: "IMG-20220710-WA0007.jpg",
-        record: 'كل شيء عن اسماك القرش.aac',
-        publishDate: 2022,
-        author: "Person",
-        publisher: "Any One",
-        bookCat: "ay 7aga",
-        pagesNo: 25
-    },
-    {
-        bookname: "الوزير السجين ",
-        bookdesc: `تناول هذه القصة أحداثا تدور بين سلطان هندي جائر (ظالم) عاش في قديم الزمان وبين وزيره العادل.
-
-
-    هذه النسخة من الكتاب صادرة ومتاحة مجانًا من مؤسسة هنداوي بشكل قانوني؛ حيث إن نص الكتاب يقع في
-    نطاق الملكية العامة تبعًا لقوانين الملكية الفكرية.</p>
-` ,
-        type: "تعليمي",
-        bigDesc1: `fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff`,
-        bigDesc2: `fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff`,
-        image: "IMG-20220710-WA0007.jpg",
-        record: 'كل شيء عن اسماك القرش.aac',
-        publishDate: 2022,
-        author: "Person",
-        publisher: "Any One",
-        bookCat: "ay 7aga",
-        pagesNo: 25
-    }
+   
+    
     ];
 let cartona = "";
 for (let i = 0; i < booksList.length; i++) {

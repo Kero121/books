@@ -127,6 +127,7 @@ height: 100vh;
 .portfolio{
     padding: 60px 0;
     overflow: hidden;
+    direction: rtl;
 }
 .color{
     color: #09c;
